@@ -200,6 +200,7 @@ For more information, see `ytfzf(5)` which should be installed, if it's not see 
 - When fzf is not set to 100% height, thumbnails may appear in the wrong position
 - BUG1
 - BUG2
+- BUG3
 
 # Contributing
 
