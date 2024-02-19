@@ -195,7 +195,7 @@ For more information, see `ytfzf(5)` which should be installed, if it's not see 
 
 # Bugs
 
-- _dwm with swallow patch: Images don't render with ueberzug when looped (ie, option `-l`)_
+No BUGS ;)
 
 # Contributing
 
