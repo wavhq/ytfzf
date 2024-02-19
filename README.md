@@ -198,9 +198,6 @@ For more information, see `ytfzf(5)` which should be installed, if it's not see 
 - _dwm with swallow patch: Images don't render with ueberzug when looped (ie, option `-l`)_
 - _if thumbnails are not working `.Xauthority` might be causing it. Try deleting it and relogging into your computer._
 - When fzf is not set to 100% height, thumbnails may appear in the wrong position
-- BUG1
-- BUG2
-- BUG3
 
 # Contributing
 
